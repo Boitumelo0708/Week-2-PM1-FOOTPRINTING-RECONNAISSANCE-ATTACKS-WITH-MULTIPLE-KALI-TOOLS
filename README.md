@@ -97,22 +97,27 @@ During Week 2 of my Cybersecurity & Ethical Hacking internship, I engaged in pra
 Screenshots of the command outputs collected during the activities.
 
 ### curl -I Results
-![curl -I results](images/curl-I.png)
+<img width="1788" height="550" alt="image" src="https://github.com/user-attachments/assets/1b48ba8b-a396-43ea-a264-030406826f63" />
+
 
 ### dnsrecon -d Results
-![dnsrecon results](images/dnsrecon.png)
+<img width="1838" height="1222" alt="image" src="https://github.com/user-attachments/assets/b749389f-b555-484f-a96a-a8531a45bf0a" />
+
 
 ### nslookup Results
-![nslookup results](images/nslookup.png)
+<img width="1774" height="649" alt="image" src="https://github.com/user-attachments/assets/4dfe12cd-eb0e-4a18-bebc-ec1b4d0b04dd" />
+
 
 ### wafw00f Results
-![wafw00f results](images/wafw00f.png)
+<img width="1789" height="814" alt="image" src="https://github.com/user-attachments/assets/2af730a6-d72e-4b53-b227-c8ed5599cf42" />
 
 ### WhatWeb Results
-![WhatWeb results](images/whatweb.png)
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ea19b176-bdca-4444-8cf5-99cf6a9efd51" />
+
 
 ### WHOIS Results
-![WHOIS results](images/whois.png)
+<img width="2107" height="1125" alt="image" src="https://github.com/user-attachments/assets/f05319a1-fdbc-45e5-a983-31903929c6fb" />
+
 
 ---
 
