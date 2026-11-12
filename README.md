@@ -120,6 +120,8 @@ Screenshots of the command outputs collected during the activities.
 
 
 ---
+## Zenmap LAN Topology
+<img width="503" height="441" alt="Zenmap LAN Topology" src="https://github.com/user-attachments/assets/00677941-cc0f-4ffe-82d3-5251754fc239" />
 
 ## Author
 
